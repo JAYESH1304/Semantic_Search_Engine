@@ -1,6 +1,6 @@
-# Semantic_Search_Engine
+# Semantic Search Engine
 
-The aim of this project is to develop a custom search engine tailored for specific use cases.
+The aim of this project is to develop a custom semantic search engine tailored for specific use cases.
 
 ## Technologies Used
 
@@ -17,4 +17,4 @@ The aim of this project is to develop a custom search engine tailored for specif
 
 ## Installation and Usage
 
-- Run the Streamlit app locally using streamlit run app.py.
+- Run the Streamlit app locally using streamlit run Final_app.py.
