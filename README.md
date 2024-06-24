@@ -18,3 +18,5 @@ The aim of this project is to develop a custom semantic search engine tailored f
 ## Installation and Usage
 
 - Run the Streamlit app locally using streamlit run Final_app.py.
+
+Deployed on Huggingface - https://huggingface.co/spaces/Jayesh13/Semantic_Search_Engine/tree/main
